@@ -1,7 +1,6 @@
 #Flappy Bird Game With Flutter:
 -------
-![image](https://github.com/keremkiyak/FlappyBird/assets/110934008/83583b52-2f7c-44d7-bd31-579aa1fed5d5)
-![image](https://github.com/keremkiyak/FlappyBird/assets/110934008/718343a4-cbf3-4e0d-a2a5-450154c334ee)
+https://github.com/keremkiyak/FlappyBird/assets/110934008/21fd1962-8808-4047-9e65-cc046f879c40
 
 
 
